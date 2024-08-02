@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @shubhammoral
-- 👀 I’m interested in Networking, Programming, Automation, Cloud, Azure
-- 🌱 Currently I am learning Python, Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shubhammoral@gmail.com
 
 <!---
 shubhammoral/shubhammoral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
